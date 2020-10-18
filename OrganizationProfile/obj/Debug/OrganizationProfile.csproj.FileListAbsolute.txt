@@ -1,0 +1,11 @@
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csprojAssemblyReference.cache
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\Chin\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
